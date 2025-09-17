@@ -1,5 +1,3 @@
-# Java-Code
-
 # 🔹 Java History & Evolution (Interview-Focused)
 
 ## 1. **Who developed Java?**
@@ -17,10 +15,10 @@ In the early 90s:
 * Existing languages like **C and C++** were **not portable** across different chipsets and OS.
 * Requirement was:
 
-  * **Simple** to use.
-  * **Portable** → run on any device.
-  * **Secure** → avoid memory corruption & crashes.
-  * **Robust** for network-based, distributed systems.
+ * **Simple** to use.
+ * **Portable** → run on any device.
+ * **Secure** → avoid memory corruption & crashes.
+ * **Robust** for network-based, distributed systems.
 
 ---
 
